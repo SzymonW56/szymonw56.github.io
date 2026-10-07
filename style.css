@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    color: red;
+    background-image: url(2026-09-23_19.03.48.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+.image{
+    width: 100%;
+    height: auto;
+}
+h2{
+    margin-left: 5px;
+}
+p{
+    margin-top: 15px;
+    margin-left: 4px;
+    color: white;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.text{
+    font-weight: normal;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.tytul{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.tytul2{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+div{
+    margin: auto;
+    width: 85%;
+}
